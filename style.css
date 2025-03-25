@@ -35,7 +35,7 @@ body {
 
 /* Profile Pic */
 .profile-pic img {
-    width: 320px;
+    width: 300px;
     max-width: 100%;
     height: auto;
     border-radius: 200px;
